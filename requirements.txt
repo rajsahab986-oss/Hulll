@@ -5,7 +5,4 @@ pyromod
 yt-dlp
 aiohttp
 aiofiles
-ffmpeg
-ffprobe
-asyncio
 humanize
